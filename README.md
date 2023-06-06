@@ -40,7 +40,7 @@ Dnayodaya is an innovative project that leverages the power of Generative AI to 
 6. Launch the Dnayodaya application:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 7. Access the application by visiting `http://localhost:5000` in your web browser.
