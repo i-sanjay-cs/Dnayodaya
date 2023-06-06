@@ -72,7 +72,7 @@ Dnayodaya acknowledges the following technologies and resources:
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-- Email: [your-email@example.com](mailto:sanjay826870@gmail.com)
-- GitHub: [YourUsername](https://github.com/i-sanjay-cs)
+- Email: [sanjay826870@gmail.com](mailto:sanjay826870@gmail.com)
+- GitHub: [i-sanjay-cs](https://github.com/i-sanjay-cs)
 
 Let's revolutionize the way students learn with the power of Generative AI and intelligent assistance! 🚀✨
