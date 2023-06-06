@@ -58,9 +58,7 @@ Contributions are welcome! If you have any ideas or suggestions to improve Dnayo
 
 Please ensure that you follow the [code of conduct](CODE_OF_CONDUCT.md) while contributing.
 
-## License 📝
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments 🙏
 
